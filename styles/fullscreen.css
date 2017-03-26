@@ -1,0 +1,25 @@
+*
+{
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+#wrap
+{
+	position:absolute;
+	width:100%;
+	height:100%;
+}
+#words
+{
+	color:white;
+	font-family:arial;
+	font-weight:bold;
+	font-size:60pt;
+	text-align:center;
+	width:100%;
+	opacity:1;
+	top:50%;
+	transform:translateY(-50%);
+	position:absolute;
+}

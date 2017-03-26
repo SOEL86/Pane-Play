@@ -1,0 +1,70 @@
+.handle 
+{
+	background-color: green;
+}
+#close_horizontal 
+{
+	position: absolute;
+}
+
+#far_horizontal 
+{
+	position: absolute;
+}
+#close_vertical 
+{
+	position: absolute;
+}
+#far_vertical 
+{
+	position: absolute;
+}
+#AVERAGE_CENTRE 
+{
+	background-color: blue;
+	position: absolute;
+}
+.constrain
+{
+	position:absolute;
+}
+.window
+{
+	position: absolute;
+}
+#win1
+{
+	background-color: black;
+}
+#win2
+{
+	background-color: black;
+}
+#win3
+{
+	background-color: black;
+}
+#win4
+{
+	background-color: black;
+}
+/*#close_horizontal:hover 
+{
+	transform: scaleX(2);
+}
+#far_horizontal:hover 
+{
+	transform: scaleX(2);
+}
+#close_vertical:hover 
+{
+	transform: scaleY(2);
+}
+#far_vertical:hover 
+{
+	transform: scaleY(2);
+}
+#AVERAGE_CENTRE:hover 
+{
+	transform: scaleY(2);
+}*/
